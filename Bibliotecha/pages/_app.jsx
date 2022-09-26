@@ -7,31 +7,7 @@ import Header from "../components/header"
 const App = () => {
   return(
     <div>
-      {/* <Router> */}
-      {/* <Header/> */}
-      {/* <Intro/>
-      <Routes>
-      <Route 
-                path="/Portfolio"
-                element={<ProductList />}
-              />
-      <Route 
-                path="/About"
-                element={<About />}
-              />
-      <Route 
-                path="/Contact"
-                element={<Contact />}
-              />
-      <Route 
-                path="/Resume"
-                element={<Resume/>}
-              />
-      </Routes> */}
-      
-      {/* </Router> */}
-      {/* <Footer/> */}
-      
+      <Header/>
       </div>
   ) 
 };

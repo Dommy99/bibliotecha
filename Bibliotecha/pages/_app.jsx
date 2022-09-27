@@ -1,16 +1,12 @@
 import '../styles/globals.css'
-import Header from "../components/header"
-// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Layout from '../components/layout'
 
+function MyApp({ Component, pageProps }) {
+  return (
+  <Layout>
+  return <Component {...pageProps} />
+  </Layout>
+  )
+}
 
-
-const App = () => {
-  return(
-    <div>
-      <Header/>
-      </div>
-  ) 
-};
-
-
-export default App;
+export default MyApp

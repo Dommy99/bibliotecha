@@ -8,13 +8,9 @@ const Home = () => {
 
   return (
     <>
-      {/* <Head>
-        <title>Home</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head> */}
 
-      <div id="lp-register">
-        <div className="container wrapper">
+      <div>
+        {/* <div className="container wrapper">
           <div className="row">
             <div className="col-sm-5">
               <div className="intro-texts">
@@ -49,18 +45,11 @@ const Home = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </>
   );
 };
 
-// Home.getInitialProps = async ({ req }) => {
-//   const res = await (await fetchTokenData(req)).json();
-
-//   return {
-//     userId: res?.userId || null,
-//   };
-// };
 
 export default Home;

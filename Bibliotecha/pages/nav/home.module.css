@@ -1,0 +1,99 @@
+.maincontainer {
+  display: flex;
+  height: 78vh;
+  width: 95vw;
+  position: absolute;
+  left: 57px;
+  top: 121px;
+  background: #84a98c;
+  border-radius: 24px;
+}
+/* left styles */
+.leftcontainer {
+  position: absolute;
+  width: 45%;
+  height: 85%;
+  left: 37px;
+  top: 65px;
+  /* box color */
+  background: #92bb9a;
+  border-radius: 24px;
+  z-index: 1;
+}
+
+.righttab {
+  position: absolute;
+  width: 50%;
+  height: 8%;
+  left: 50%;
+  top: 0px;
+  background: #354f52;
+  border-radius: 0px 24px 0px 0px;
+}
+
+.profilepic {
+  position: absolute;
+  width: 264px;
+  height: 264px;
+  left: 38%;
+  top: 25%;
+  border-radius: 50%;
+  background: #354f52;
+}
+
+.becomecreatorbtn {
+  position: absolute;
+  left: 29.22%;
+  right: 29.22%;
+  top: 73.08%;
+  bottom: 20.07%;
+
+  background: #354f52;
+  border-radius: 8px;
+}
+/* left styles */
+
+/* right styles */
+.rightcontainer {
+  position: absolute;
+  width: 45%;
+  height: 85%;
+  right: 37px;
+  top: 65px;
+  /* box color */
+  background: #92bb9a;
+  border-radius: 24px;
+  z-index: 1;
+}
+
+.searchtags {
+  position: absolute;
+  width: 80%;
+  height: 41px;
+  left: 10%;
+  top: 20%;
+  background: #cad2c5;
+  border-radius: 8px;
+}
+
+.title {
+    position: absolute;
+    width: 80%;
+    height: 41px;
+    left: 10%;
+    bottom: 60%;
+    background: #cad2c5;
+    border-radius: 8px;
+  }
+
+  .textbox {
+    position: absolute;
+    width: 80%;
+    height: 40%;
+    left: 10%;
+    bottom: 10%;
+    background: #cad2c5;
+    border-radius: 8px;
+  }
+
+/* right styles */

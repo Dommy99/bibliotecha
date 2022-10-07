@@ -17,8 +17,8 @@ const Header = () => {
         <div className="topnav">
         
 </div>
-          <Link href="/">home</Link>
-          <a href="#contact">Contact</a>
+          <Link href="/nav/home">home</Link>
+          <Link href="/nav/profilepage">profile</Link>
           <Link href="/nav/loginpage">Login</Link>
         </div>
       </div>

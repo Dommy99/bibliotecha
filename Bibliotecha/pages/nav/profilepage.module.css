@@ -1,0 +1,30 @@
+.maincontainer {
+    display: flex;
+    height: 78vh;
+    width: 95vw;
+    position: absolute;
+    left: 57px;
+    top: 121px;
+    background: #84a98c;
+    border-radius: 24px;
+  }
+
+  .righttab {
+    position: absolute;
+    width: 50%;
+    height: 8%;
+    left: 50%;
+    top: 0px;
+    background: #354f52;
+    border-radius: 0px 24px 0px 0px;
+  }
+
+  .profilepic {
+    position: absolute;
+    width: 264px;
+    height: 264px;
+    left: 38%;
+    top: 25%;
+    border-radius: 50%;
+    background: #354f52;
+  }

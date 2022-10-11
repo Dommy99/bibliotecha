@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "bibliotecha",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authbibliotechac0986ffd"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}

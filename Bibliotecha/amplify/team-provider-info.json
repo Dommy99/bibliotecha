@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bibliotecha-dev-215131-authRole",
+      "UnauthRoleArn": "arn:aws:iam::597547169580:role/amplify-bibliotecha-dev-215131-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::597547169580:role/amplify-bibliotecha-dev-215131-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bibliotecha-dev-215131-deployment",
+      "UnauthRoleName": "amplify-bibliotecha-dev-215131-unauthRole",
+      "StackName": "amplify-bibliotecha-dev-215131",
+      "StackId": "arn:aws:cloudformation:us-east-1:597547169580:stack/amplify-bibliotecha-dev-215131/732f8c80-4846-11ed-8c53-12255b3d18ff",
+      "AmplifyAppId": "djdw5hplcsbwl"
+    },
+    "categories": {
+      "auth": {
+        "bibliotechac0986ffd": {}
+      }
+    }
+  }
+}

@@ -8,6 +8,13 @@
       "cognitoUserPoolId": "authbibliotechac0986ffd"
     },
     "conflictResolution": {},
-    "additionalAuthTypes": []
+    "additionalAuthTypes": [
+      {
+        "mode": "API_KEY",
+        "expirationTime": 365,
+        "apiKeyExpirationDate": "2023-10-13T23:06:43.445Z",
+        "keyDescription": ""
+      }
+    ]
   }
 }

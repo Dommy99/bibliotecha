@@ -13,7 +13,8 @@
     },
     "categories": {
       "auth": {
-        "bibliotechac0986ffd": {}
+        "bibliotechac0986ffd": {},
+        "userPoolGroups": {}
       }
     }
   }

@@ -29,7 +29,7 @@ form {background: #84A98C}
 button {background: #84A98C}
 
 
-/* [data-amplify-authenticator] {
+[data-amplify-authenticator] {
   --amplify-colors-background-primary: var(--amplify-colors-neutral-90);
   --amplify-colors-background-secondary: var(--amplify-colors-neutral-100);
   --amplify-colors-brand-primary-10: var(--amplify-colors-teal-100);
@@ -40,4 +40,4 @@ button {background: #84A98C}
   --amplify-components-tabs-item-active-color: var(--amplify-colors-white);
   --amplify-components-tabs-item-focus-color: var(--amplify-colors-white);
   --amplify-components-tabs-item-hover-color: var(--amplify-colors-orange);
-} */
+}

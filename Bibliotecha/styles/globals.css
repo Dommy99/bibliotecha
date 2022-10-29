@@ -40,4 +40,5 @@ button {background: #84A98C}
   --amplify-components-tabs-item-active-color: var(--amplify-colors-white);
   --amplify-components-tabs-item-focus-color: var(--amplify-colors-white);
   --amplify-components-tabs-item-hover-color: var(--amplify-colors-orange);
+  --amplify-components-tabs-item-hover-color: var(--amplify-colors-orange);
 }

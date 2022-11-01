@@ -10,7 +10,7 @@ import awsExports from '../src/aws-exports';
 Amplify.configure(awsExports);
 const component = {Header(){return <h1>hello</h1>}}
 
-export default function App({ Component, pageProps,signOut, user }) {
+export default function App() {
   return (
     <Authenticator components ={component}> 
     {({ signOut, user}) => (

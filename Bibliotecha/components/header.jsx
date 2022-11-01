@@ -2,11 +2,11 @@ import styles from "./header.module.css";
 import Link from 'next/link';
 
 const Header = () => {
-  fetch ("/api/test").then(
-    function (response) {
-      return response.json().then(console.log)
-    }
-  )
+  // fetch ("/api/test").then(
+  //   function (response) {
+  //     return response.json().then(console.log)
+  //   }
+  // )
     return (
         <div className = {styles.header}>
         <a href="#default" >BiblioTECHa</a>

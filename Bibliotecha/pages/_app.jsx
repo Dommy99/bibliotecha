@@ -17,8 +17,8 @@ export default function App() {
   <Layout>
   
         <main>
-          <h1>Hello {user.username}</h1>
-          <button onClick={signOut}>Sign out</button>
+          <h1>Hello, {user.username}</h1>
+          <button onClick={signOut}>Log out</button>
         </main>
       
   </Layout>

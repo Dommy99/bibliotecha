@@ -3,7 +3,7 @@ import styles from "./footer.module.css"
 const Footer = () => {
 return (
 <div className={styles.footer}>
-  <p>Footer goes here</p>
+  <p>BiblioTECHa 2022</p>
 </div>
 );
 }
